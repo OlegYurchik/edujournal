@@ -1,0 +1,1 @@
+class EDUJournalException(Exception): pass
